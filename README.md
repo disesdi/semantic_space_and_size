@@ -2,6 +2,10 @@
 
 this project is an extension of the [Word Embedding Association Test (WEAT)](https://arxiv.org/abs/1608.07187) framework, proposed in 2016 by Caliskan et al.
 
+includes code to scrape more than a dozen subReddits, obtaining roughly 111,000 tokens for linguistic research, creating more than a dozen corpora with a mean unique vocabulary of 5,580 tokens exclusive of stop-words. automated text preprocessing to obtain top n-grams, train 18 unique Word2Vec neural networks for shallow neural vectorization, & automate scalable in-depth cosine similarity analysis. callable in one line of Python.
+
+## about WEAT
+
 the WEAT test was based on the discovery that word embeddings also encoded measureable social biases, which correlated to known cultural phenomena:
 
 *Our results indicate that language itself contains recoverable and accurate imprints of our historic biases, whether these are morally neutral as towards insects or flowers, problematic as towards race or gender, or even simply veridical, reflecting the {\em status quo} for the distribution of gender with respect to careers or first names. These regularities are captured by machine learning along with the rest of semantics. In addition to our empirical findings concerning language, we also contribute new methods for evaluating bias in text...*
