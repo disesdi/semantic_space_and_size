@@ -22,7 +22,7 @@ code for this project lives in [a jupyter notebooke here](https://anglesofattack
 
 ## how-to
 
-
+ calling the `final_pipeline` function requires several inputs:
 
 ### sample input
 
