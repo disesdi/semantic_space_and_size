@@ -19,3 +19,5 @@ while the original paper used `GloVe` word embeddings trained on the Common Craw
 in addition to `Word2Vec` from `gensim`, this project also makes use of the `praw`, `nltk`, `sklearn` and `matplotlib` libraries.
 
 code for this project lives in [a jupyter notebooke here](https://anglesofattack.io/3/semantic_space_and_size.html). find the [full writeup with results here](https://github.com/disesdi/semantic_space_and_size/blob/fd2583ae637447ef383f6011531f79eae481b6a5/small_corpora_bias_analysis_1.ipynb).
+
+## sample input
