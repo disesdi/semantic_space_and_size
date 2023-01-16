@@ -35,7 +35,7 @@ code for this project lives in [a jupyter notebooke here](https://anglesofattack
 
 the function returns the trained models, visualizations, cosine simialrity comparisons as well as top vocabulary words & other stats from the corpus:
 
-### sample outpu
+### sample output
 
 ![image](https://user-images.githubusercontent.com/110150470/212741174-e609ffd1-897b-436a-a6f2-594d6e3e54b6.png)
 
