@@ -22,7 +22,10 @@ code for this project lives in [a jupyter notebooke here](https://anglesofattack
 
 ## how-to
 
- calling the `final_pipeline` function requires several inputs: `subreddit_name`, `app_name`, `oa_script`, `oa_secret`, `pwd`, `vocab_number`, `term_list_A`, `term_list_B`.
+ calling the `final_pipeline` function requires several inputs: `subreddit_name`, `app_name`, `oa_script`, `oa_secret`, `pwd`, `vocab_number`, `term_list_A`, `term_list_B`.'
+ 
+ ![image](https://user-images.githubusercontent.com/110150470/212740816-cabf1d87-2d38-4763-9e52-745efc02425f.png)
+
  
  `term_list_A` & `term_list_B` represent lists of tokens (as strings) for cosine similarity comparison.
 
